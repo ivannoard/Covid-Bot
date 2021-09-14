@@ -1,1 +1,1 @@
-This is telegram bot made with NodeJS
+This is a telegram bot made with NodeJS
